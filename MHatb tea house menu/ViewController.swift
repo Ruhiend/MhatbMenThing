@@ -10,6 +10,19 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBAction func BeveragesButton(_ sender: Any) {
+    }
+    
+    @IBAction func PastriesButton(_ sender: Any) {
+    }
+    
+    @IBAction func CakesButton(_ sender: Any) {
+    }
+    
+    @IBAction func SpecialtyDrinksButton(_ sender: Any) {
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
