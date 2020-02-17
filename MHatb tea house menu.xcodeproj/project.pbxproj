@@ -15,6 +15,10 @@
 		4F6C1E1023F58502005437E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F6C1E0E23F58502005437E4 /* LaunchScreen.storyboard */; };
 		4F6C1E1B23F58503005437E4 /* MHatb_tea_house_menuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F6C1E1A23F58503005437E4 /* MHatb_tea_house_menuTests.swift */; };
 		4F6C1E2623F58503005437E4 /* MHatb_tea_house_menuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F6C1E2523F58503005437E4 /* MHatb_tea_house_menuUITests.swift */; };
+		4F6C1E3723FB322B005437E4 /* Beverages.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F6C1E3423FB3228005437E4 /* Beverages.jpg */; };
+		4F6C1E3823FB322B005437E4 /* Pastries.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F6C1E3523FB322A005437E4 /* Pastries.jpg */; };
+		4F6C1E3923FB322B005437E4 /* SpecialtyBeverages.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F6C1E3623FB322B005437E4 /* SpecialtyBeverages.jpg */; };
+		4F6C1E3B23FB3CEE005437E4 /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F6C1E3A23FB3CED005437E4 /* image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		4F6C1E2123F58503005437E4 /* MHatb tea house menuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MHatb tea house menuUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F6C1E2523F58503005437E4 /* MHatb_tea_house_menuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MHatb_tea_house_menuUITests.swift; sourceTree = "<group>"; };
 		4F6C1E2723F58503005437E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F6C1E3423FB3228005437E4 /* Beverages.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beverages.jpg; sourceTree = "<group>"; };
+		4F6C1E3523FB322A005437E4 /* Pastries.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pastries.jpg; sourceTree = "<group>"; };
+		4F6C1E3623FB322B005437E4 /* SpecialtyBeverages.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SpecialtyBeverages.jpg; sourceTree = "<group>"; };
+		4F6C1E3A23FB3CED005437E4 /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +91,10 @@
 				4F6C1E1923F58503005437E4 /* MHatb tea house menuTests */,
 				4F6C1E2423F58503005437E4 /* MHatb tea house menuUITests */,
 				4F6C1E0123F584FF005437E4 /* Products */,
+				4F6C1E3423FB3228005437E4 /* Beverages.jpg */,
+				4F6C1E3523FB322A005437E4 /* Pastries.jpg */,
+				4F6C1E3623FB322B005437E4 /* SpecialtyBeverages.jpg */,
+				4F6C1E3A23FB3CED005437E4 /* image.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -232,7 +244,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F6C1E3723FB322B005437E4 /* Beverages.jpg in Resources */,
+				4F6C1E3923FB322B005437E4 /* SpecialtyBeverages.jpg in Resources */,
 				4F6C1E1023F58502005437E4 /* LaunchScreen.storyboard in Resources */,
+				4F6C1E3823FB322B005437E4 /* Pastries.jpg in Resources */,
+				4F6C1E3B23FB3CEE005437E4 /* image.jpg in Resources */,
 				4F6C1E0D23F58502005437E4 /* Assets.xcassets in Resources */,
 				4F6C1E0B23F584FF005437E4 /* Main.storyboard in Resources */,
 			);
