@@ -22,12 +22,22 @@ class ViewController: UIViewController {
     @IBAction func SpecialtyDrinksButton(_ sender: Any) {
     }
     
+    var thing = [BeveragesButton, PastriesButton, CakesButton, SpecialtyDrinksButton]
+    var itemCart = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-
+    func buttonisPressed(){
+        switch (itemCart){
+        case 1:
+            print("test")
+        default:
+            print("A man has fallen")
+        }
+    }
+    
 }
 
