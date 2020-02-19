@@ -155,6 +155,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="1024" height="1366"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="menuBackground1" translatesAutoresizingMaskIntoConstraints="NO" id="kFC-3K-3j8">
+                                <rect key="frame" x="-20" y="0.0" width="1064" height="1425"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1425" id="7sA-v2-MFd"/>
+                                    <constraint firstAttribute="width" constant="1064" id="OkD-lm-4AP"/>
+                                </constraints>
+                            </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="owk-pR-c30">
                                 <rect key="frame" x="327" y="505" width="370" height="46"/>
                                 <constraints>
@@ -254,13 +261,6 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="Sugar Cookie ------ £3.75"/>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="menuBackground1" translatesAutoresizingMaskIntoConstraints="NO" id="kFC-3K-3j8">
-                                <rect key="frame" x="-20" y="0.0" width="1064" height="1425"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="1425" id="7sA-v2-MFd"/>
-                                    <constraint firstAttribute="width" constant="1064" id="OkD-lm-4AP"/>
-                                </constraints>
-                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.7851327657699585" green="0.71062642335891724" blue="0.59282773733139038" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
