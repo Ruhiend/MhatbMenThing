@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33D1CEE623FDD5BA00EDE16B /* BeverageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D1CEE523FDD5BA00EDE16B /* BeverageViewController.swift */; };
+		33D1CEE823FDD66000EDE16B /* PastryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D1CEE723FDD66000EDE16B /* PastryViewController.swift */; };
+		33D1CEEA23FDD69800EDE16B /* SpecBevViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D1CEE923FDD69800EDE16B /* SpecBevViewController.swift */; };
+		33D1CEEC23FDD6BB00EDE16B /* DessertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D1CEEB23FDD6BB00EDE16B /* DessertViewController.swift */; };
+		33D1CEEE23FDD70E00EDE16B /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D1CEED23FDD70E00EDE16B /* CartViewController.swift */; };
 		4F6C1E0423F584FF005437E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F6C1E0323F584FF005437E4 /* AppDelegate.swift */; };
 		4F6C1E0623F584FF005437E4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F6C1E0523F584FF005437E4 /* SceneDelegate.swift */; };
 		4F6C1E0823F584FF005437E4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F6C1E0723F584FF005437E4 /* ViewController.swift */; };
@@ -39,6 +44,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		33D1CEE523FDD5BA00EDE16B /* BeverageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeverageViewController.swift; sourceTree = "<group>"; };
+		33D1CEE723FDD66000EDE16B /* PastryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PastryViewController.swift; sourceTree = "<group>"; };
+		33D1CEE923FDD69800EDE16B /* SpecBevViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecBevViewController.swift; sourceTree = "<group>"; };
+		33D1CEEB23FDD6BB00EDE16B /* DessertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertViewController.swift; sourceTree = "<group>"; };
+		33D1CEED23FDD70E00EDE16B /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
 		4F6C1E0023F584FF005437E4 /* MHatb tea house menu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MHatb tea house menu.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F6C1E0323F584FF005437E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4F6C1E0523F584FF005437E4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -114,6 +124,11 @@
 				4F6C1E0323F584FF005437E4 /* AppDelegate.swift */,
 				4F6C1E0523F584FF005437E4 /* SceneDelegate.swift */,
 				4F6C1E0723F584FF005437E4 /* ViewController.swift */,
+				33D1CEE523FDD5BA00EDE16B /* BeverageViewController.swift */,
+				33D1CEE723FDD66000EDE16B /* PastryViewController.swift */,
+				33D1CEE923FDD69800EDE16B /* SpecBevViewController.swift */,
+				33D1CEEB23FDD6BB00EDE16B /* DessertViewController.swift */,
+				33D1CEED23FDD70E00EDE16B /* CartViewController.swift */,
 				4F6C1E0923F584FF005437E4 /* Main.storyboard */,
 				4F6C1E0C23F58502005437E4 /* Assets.xcassets */,
 				4F6C1E0E23F58502005437E4 /* LaunchScreen.storyboard */,
@@ -275,9 +290,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33D1CEE823FDD66000EDE16B /* PastryViewController.swift in Sources */,
 				4F6C1E0823F584FF005437E4 /* ViewController.swift in Sources */,
 				4F6C1E0423F584FF005437E4 /* AppDelegate.swift in Sources */,
+				33D1CEEA23FDD69800EDE16B /* SpecBevViewController.swift in Sources */,
+				33D1CEEE23FDD70E00EDE16B /* CartViewController.swift in Sources */,
+				33D1CEEC23FDD6BB00EDE16B /* DessertViewController.swift in Sources */,
 				4F6C1E0623F584FF005437E4 /* SceneDelegate.swift in Sources */,
+				33D1CEE623FDD5BA00EDE16B /* BeverageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
