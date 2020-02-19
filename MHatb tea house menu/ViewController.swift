@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     @IBAction func SpecialtyDrinksButton(_ sender: Any) {
     }
     
-    var thing = [BeveragesButton, PastriesButton, CakesButton, SpecialtyDrinksButton]
+    //var thing = [BeveragesButton, PastriesButton, CakesButton, SpecialtyDrinksButton]
     var itemCart = 0
     
     override func viewDidLoad() {
